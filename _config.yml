@@ -35,4 +35,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-remote_theme: xiaokai/Minimalism
+remote_theme: liukai1101/Minimalism
