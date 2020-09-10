@@ -18,7 +18,7 @@ title: 每天那么一丢丢
 name: 每天那么一丢丢
 description: 个人博客
 
-github: https://github.com/showzeng/Minimalism
+# github: https://github.com/showzeng/Minimalism
 rss: true
 
 plugins:
